@@ -1,2 +1,2 @@
 # maps-app
-this is an Google map based app nivgates places all over the world developed by Angular and java-web 
+this is an Google map based app trakes places all over the world developed by Angular and java-web 
