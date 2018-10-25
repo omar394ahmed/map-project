@@ -68,6 +68,29 @@ li.horiznal a:hover {
    background-color: darkgreen ;
 
 }
+
+#menu > details > div >  a {
+
+    display: block ; 
+    text-decoration: none ; 
+    margin: 3px 6px 3px 18px ;
+    padding: 4px ; 
+    color: black ; 
+    background-color:#4CAF50;
+
+}
+
+#menu > details > div >  a:hovar{
+    background-color: cadetblue ;
+    font-weight: bold ;
+}
+
+#menu > details > div >  a:before{
+  content: "- ";
+
+}
+
+
 #menu > details > div >  label {
 
     display: block ; 
@@ -84,10 +107,13 @@ li.horiznal a:hover {
     font-weight: bold ;
 }
 
-#menu > details > div >  a:before{
+#menu > details > div >  label:before{
   content: "- ";
 
 }
+
+
+
 
 div.fixed{
   
